@@ -1,0 +1,7 @@
+kafka\tutorial1\ProducerDemo.class
+kafka\tutorial1\ConsumerDemo.class
+kafka\tutorial1\ConsumerDemoWithThreads.class
+kafka\tutorial1\ProducerDemoWithCallback$1.class
+kafka\tutorial1\ConsumerDemoGroups.class
+kafka\tutorial1\ConsumerDemoWithThreads$ConsumerRunnableTask.class
+kafka\tutorial1\ProducerDemoWithCallback.class
