@@ -1,0 +1,11 @@
+<component name="CopyrightManager">
+  <settings default="Ericsson_Copyright">
+    <LanguageOptions name="XML">
+      <option name="fileTypeOverride" value="1" />
+      <option name="prefixLines" value="false" />
+    </LanguageOptions>
+    <LanguageOptions name="__TEMPLATE__">
+      <option name="prefixLines" value="false" />
+    </LanguageOptions>
+  </settings>
+</component>
